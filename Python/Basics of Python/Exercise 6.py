@@ -1,3 +1,6 @@
+# Q. Make a  rock,papers, scissors game in python with a computer based AI
+
+
 import random
 #1:Rock
 #2:Paper
